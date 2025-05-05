@@ -55,7 +55,7 @@ Place `.mp4` files under:
 
 ```
 /Data/accident/*.mp4
-/Datas/no_accident/*.mp4
+/Data/no_accident/*.mp4
 ```
 
 ### 4. Run federated training & evaluation
