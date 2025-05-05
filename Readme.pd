@@ -1,4 +1,4 @@
-#  Privacy Preserving Traffic Accident Detection Using Federated Learning
+# Privacy Preserving Traffic Accident Detection Using Federated Learning
 
 This repository implements a federated learning pipeline for binary video classification (accident vs. no-accident) using Flower and Opacus. It supports two model architectures:
 
